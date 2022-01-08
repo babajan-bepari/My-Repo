@@ -1,1 +1,0 @@
-latest-fork-file.txt content
